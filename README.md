@@ -10,8 +10,8 @@ breakdown:
 	- m = DONE, submitted
 	- 6 = work done, no report
 	- 7 = work done, no report
-	- 8 = not started
-	- 9 = not started
+	- 8 = schematic done, no test or report
+	- 9 = schematic done, no test or report
 	- f = not started
     
 @todo
